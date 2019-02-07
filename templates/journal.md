@@ -14,4 +14,7 @@ Hour 7:
 
 ## Week Three (2/7 to 2/13)
 
-This week, I focused on getting comfortable using a text editor and read about/practiced markdown and reading about the benefits of plain text editing. I already had Anaconda installed, so I checked for any updates.
+This week, I focused on getting comfortable using a text editor and read about/practiced markdown and reading about the benefits of plain text editing. I already had Anaconda installed, so I checked for any updates. I edited this file and my goals file and had to figure out how to replicate what we did in class, to get them fully committed to github
+
+Hour 1: Edited goals & journal documents, could not figure out why commit was giving me an error. Closed terminal 3 times. Got frustrated. Watched some instagram stories. Came back, checked notes, figured out I needed to add my commit message. Successfully edited the files, pushed, and commited them.
+Hour 2: Attempt to do this again to replicate the process and write down exact successful steps. Somehow created new file in repo .DS_Store - no idea what this is. Too afraid to touch it.
