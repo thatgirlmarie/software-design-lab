@@ -2,12 +2,16 @@
 
 ## Week Two (1/30 to 2/6)
 
-This week, I spent part of my time reviewing Git and the command line, including an hour with the DHRI command line tutorial. I found Git to be tough going, but feel like I made solid progress learning how to use pipes on the command line, though I'm still a little confused on the details of how they work. I also started learning how to run scripts in Python, which was very time consuming.
+This week, I spent the majority of my time going through the additional resources listed in the syllabus, practicing the commands we had learned in class, and googling random topics that I didn't know. I spent the majority of my time with the Command Line Crash Course from Learn Python the Hard Way and found it wasn't completely intuitive which forced me to look up a lot on my own - which ended up not being a bad thing, because I enjoy learning more sometimes when it is something I seek out and want to know.
 
-Hour 1: Git review using Pro Git book
-Hour 2: Git review using Pro Git book
-Hour 3: Phone call with classmate to fiture out pipes
-Hour 4: Tried running a "hello world" Python script
-Hour 5: ''
-Hour 6: ''
-Hour 7: Should have given up, but got the script eworking, though I'm still not sure what went wrong.
+Hour 1: DHRI Command Line tutorial from syllabus
+Hour 2: Command Line Crash Course
+Hour 3: Command Line Crash Course
+Hour 4: Opening/navigating files on my machine, using the command line
+Hour 5: 
+Hour 6: 
+Hour 7: 
+
+## Week Three (2/7 to 2/13)
+
+This week, I focused on getting comfortable using a text editor and read about/practiced markdown and reading about the benefits of plain text editing. I already had Anaconda installed, so I checked for any updates.
