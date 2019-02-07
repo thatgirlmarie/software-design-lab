@@ -3,10 +3,10 @@
 
 ## Goal One
 
-
+Navigate using terminal, comfortably
 -----
 
-Benchmark:
+Benchmark: Utilize terminal to navigate directories outside of class time
 
 
 ## Goal Two
