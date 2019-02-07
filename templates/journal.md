@@ -18,4 +18,4 @@ This week, I focused on getting comfortable using a text editor and read about/p
 
 Hour 1: Edited goals & journal documents, could not figure out why commit was giving me an error. Closed terminal 3 times. Got frustrated. Watched some instagram stories. Came back, checked notes, figured out I needed to add my commit message. Successfully edited the files, pushed, and commited them.
 Hour 2: Attempt to do this again to replicate the process and write down exact successful steps. Somehow created new file in repo .DS_Store - no idea what this is. Too afraid to touch it. SUCCESS in replicating and writing down actual steps used.
-Hour 3:
+Hour 3: Began exercise 1 in Learn Python the Hard Way and ran into an issue with Python 2 vs 3. Spent time googling the error I got and discovered it's a 2 vs 3 issue. Which should I run? Is it related to Anaconda version 2.7 vs 3.7? Q: how do I fix it. To be continued...for now I'll add the parentheses and run it how it's meant to run in 3.
